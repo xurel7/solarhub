@@ -1,3 +1,5 @@
-local bl = {}
+local bl = {
+    {"aaaaaaaa", "aaaaaaaa"},
+}
 
 return bl
