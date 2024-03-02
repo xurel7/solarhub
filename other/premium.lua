@@ -1,1 +1,3 @@
+local whitelisted = {}
 
+return whitelisted
