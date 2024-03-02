@@ -1,3 +1,0 @@
-local whitelisted = {}
-
-return whitelisted
