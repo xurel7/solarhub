@@ -14,3 +14,7 @@ elseif game.CreatorId == 5218591 then
 elseif game.CreatorId == 16811615 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/xurel7/solarhub/main/games/hoopnation.lua"))()
 end
+
+if queue_on_teleport then
+	queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/xurel7/solarhub/main/key-system/loader.lua"))()')
+end
