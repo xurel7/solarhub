@@ -13,6 +13,8 @@ elseif game.CreatorId == 5218591 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/xurel7/solarhub/main/games/rh2.lua"))()
 elseif game.CreatorId == 16811615 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/xurel7/solarhub/main/games/hoopnation.lua"))()
+elseif game.PlaceId == 4581966615 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/xurel7/solarhub/main/games/anomic.lua"))()
 end
 
 if queue_on_teleport then
